@@ -3,9 +3,6 @@ package com.rgbstudios.cxrslides.data
 import com.rgbstudios.cxrslides.R
 import com.rgbstudios.cxrslides.model.Slide
 
-/**
- * An object to generate a static list of slides
- */
 object Datasource {
 
     val slides: List<Slide> = listOf(
