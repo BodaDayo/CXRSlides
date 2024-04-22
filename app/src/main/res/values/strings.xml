@@ -1,0 +1,116 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">CXR Slides</string>
+    <string name="image_alt">image of a slide</string>
+
+    <string name="slide1">Congestive Heart Failure</string>
+    <string name="slide2">Cardiomegaly</string>
+    <string name="slide3">Cannonball lesions – Metastatic Cancer</string>
+    <string name="slide4">Pneumothorax, entire Rt lung</string>
+    <string name="slide5">Pneumothorax, bilateral apical lobes</string>
+    <string name="slide6">Emphysema</string>
+    <string name="slide7">Free subphrenic air / Perforation</string>
+    <string name="slide8">Costophrenic angle Location</string>
+    <string name="slide9">Enlarged Right atrium</string>
+    <string name="slide10">Enlarged Left ventricle</string>
+    <string name="slide11">Enlarged Left atrium</string>
+    <string name="slide12">Left rotation</string>
+    <string name="slide13">Right sided Hemothorax</string>
+    <string name="slide14">Pleural effusion</string>
+    <string name="slide15">Right upper lobe pneumonia</string>
+    <string name="slide16">Right middle lobe pneumonia</string>
+    <string name="slide17">Tension Pneumothorax Rt, complete Rt lung collapse and shift of mediastinum to left</string>
+    <string name="slide18">Tension Pneumothorax Rt, Complete collapse Rt, left mediastinum shift.</string>
+    <string name="slide19" tools:ignore="Typos">Miliary Tuberculosis</string>
+    <string name="slide20">Bilateral Interstitial Pulmonary Fibrosis</string>
+    <string name="slide21">Bilateral Pleural Effusion (Costophrenic angle)</string>
+    <string name="slide22">Post-Primary Tuberculosis</string>
+    <string name="slide23">Cannonball metastases</string>
+    <string name="slide24">Lung Abscess</string>
+    <string name="slide25">Dextrocardia</string>
+    <string name="slide26">Lung cancer</string>
+
+
+
+
+
+
+    <string name="explain1">Heart is enlarged pulmonary vasculature prominent, and interstitial markings are prominent consistent with congestive cardiac failure.
+        \nNo consolidation.
+        \nNo pleural collections.</string>
+    <string name="explain2">PA and lateral chest x-rays demonstrate markedly enlarged cardiac silhouette.
+        \nThere is a double contour to the right heart border and splaying of the carina.
+        \nThe aorta is somewhat ectatic.</string>
+    <string name="explain3">Multiple, large, well-circumscribed lesions are seen in the lung parenchyma bilaterally.</string>
+    <string name="explain4">Pneumothorax on the right, with associated pulmonary collapse, without deviations from the mediastinal structures.</string>
+    <string name="explain5">Chest X-ray showing the features of pneumothorax on the apical region of both lungs.</string>
+    <string name="explain6">Hyperinflated lungs as indicated by flattened diaphragms.
+        \nThe upper lobes are relatively radiolucent compared to the lower lobes, in particular the right upper lobe with less prominent bronchovascular markings.</string>
+    <string name="explain7">There is a large volume of free subdiaphragmatic gas with air-fluid levels under rt hemidiaphragm.</string>
+    <string name="explain8">In anatomy, the costophrenic angles are the places where the diaphragm (-phrenic) meets the ribs (costo-).
+        Each costophrenic angle can normally be seen as on chest x-ray as a sharply-pointed, downward indentation (dark) between each hemi-diaphragm (white) and the adjacent chest wall (white)</string>
+    <string name="explain9">Right atrial (RA) enlargement is less common, and harder to delineate on chest radiograph, than left atrial (LA) enlargement.
+        Enlargement of the right atrium (RA) can result from a number of conditions, including:
+        \nRaised right ventricular pressures, \nValvular disease (tricuspid regurgitation, tricuspid stenosis, Ebstein anomaly),
+        \nAtrial septal defect (ASD),
+        \nAtrial fibrillation (AF),
+        \nDilated cardiomyopathy.</string>
+    <string name="explain10">Radiograph showing the Shmoo sign for left ventricular enlargement.
+        The shape of the Shmoo superimposed over the radiograph demonstrates the origin of this sign.</string>
+    <string name="explain11">The carina is splayed and a double right heart border is seen.
+        \nThe heart is enlarged and upper zone pulmonary vasculature is prominent particularly in the right upper zone.</string>
+    <string name="explain12">If the patient is rotated then interpretation may become difficult.
+        Firstly, it may be difficult to know if the trachea is deviated to one side by a disease process.
+        It also becomes difficult to comment accurately on the heart size.
+        \nChanges in lung density due to asymmetry of overlying soft-tissue may be incorrectly interpreted as lung disease.</string>
+    <string name="explain13">Note the generalized increased density to the right hemithorax and well-defined homogenous density laterally with a well-defined margin representing a supine distribution fluid meniscus.
+        There is midline shift to the left due to mass effect in the right hemithorax.</string>
+    <string name="explain14">Mild cardiomegaly.
+        \nModerate right sided pleural effusion.  Right basal compressive atelectasis.
+        \nLeft lung clear.</string>
+    <string name="explain15">There is consolidation within the postero-inferior aspect of the right upper lobe immediately abutting the horizontal fissure and posterior aspect of the right oblique fissure.
+        No internal cavitation.
+        The remainder of the lungs are clear.
+        \nNo pleural effusions.
+        \nHeart size is normal.
+        \nGiven the clinical details, this consolidation likely represents infective change. </string>
+    <string name="explain16">Consolidation in the right mid/lower zone with effacement of the right heart border.
+        \nThe right hemidiaphragm silhouette is clearly outlined.
+        \nLeft lung clear.</string>
+    <string name="explain17">With the patient centrally positioned, there are increased right lung field lucency, and no pulmonary markings peripheral to the medially displaced shadow of the lateral/peripheral margin of the hyperdense smaller (collapsed) right lung.
+        Relatively wide ipsilateral/right intercostal spaces. Shifting of mediastinal shadows to the contralateral/left side.
+        \nNo obvious or definite evidence of other lesions</string>
+    <string name="explain18">With the patient centrally positioned, there are increased right lung field lucency, and no pulmonary markings peripheral to the medially displaced shadow of the lateral/peripheral margin of the hyperdense smaller (collapsed) right lung.
+        Relatively wide ipsilateral/right intercostal spaces. Shifting of mediastinal shadows to the contralateral/left side.
+        \nNo obvious or definite evidence of other lesions</string>
+    <string name="explain19">Chest x-ray demonstrates very widespread randomly distributed innumerable tiny nodules in both lungs.
+        There is no consolidation or pleural fluid and no mediastinal or hilar nodal enlargement.</string>
+    <string name="explain20">Diffuse increased interstitial markings throughout both lungs, without a zonal distribution. \'Shaggy\' outline to the heart.
+        \nTracheomegaly.</string>
+
+
+
+
+
+
+    <string name="explain21">Bilateral pleural effusions are noted. The cardiomediastinal silhouette is unremarkable in size and contour.</string>
+    <string name="explain22">Bilateral apical pulmonary cavities.</string>
+    <string name="explain23">Multiple well defined nodules and masses without cavitation in both lungs are highly suggestive for metastases.</string>
+    <string name="explain24">Thick walled left lobe cavitary lung lesions. </string>
+    <string name="explain25">Chance finding of a cor dexter (i.e. dextrocardia). Notice that the aortic arch is on the left and there is intestine on the left, in contrast to the DDx situs inversus.</string>
+    <string name="explain26">Multiple well defined nodules and masses without cavitation in both lungs are highly suggestive for metastases.</string>
+
+
+
+
+
+
+
+
+    <string name="study">Study the slides</string>
+    <string name="test_yourself">Test yourself</string>
+    <string name="creator">by John Omole</string>
+    <string name="reveal_slide_name">Reveal</string>
+    <string name="expand_explanation">Read more…</string>
+    <string name="expand_for_more_details">expand for more details</string>
+</resources>
