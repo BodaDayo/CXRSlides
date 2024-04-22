@@ -36,6 +36,6 @@ Contact
 - LinkedIn: [Oladayo Babalola](https://linkedin.com/in/oladayo-babalola-spt/)
 - GitHub: [This Profile](https://github.com/cooncudee/)
 
-![Cover 2 ](https://github.com/cooncudee/CXRSlides/blob/main/assets/board2.png)
+![Cover 2 ](https://github.com/cooncudee/CXRSlides/raw/main/assets/board2.png)
 
 With ❤️ from RGBStudios 🎨
