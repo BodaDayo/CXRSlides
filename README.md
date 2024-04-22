@@ -4,7 +4,7 @@ Welcome to the CXR Slides App repository!
 
 This App is a simple practice app designed to help medical students with their study. It contains x-ray slides from the Omole Slides.
 
-![Cover 1 ](https://github.com/cooncudee/CXRSlides/raw/master/assests/board1)
+![Cover 1 ](https://github.com/cooncudee/CXRSlides/raw/main/assets/board1.png)
 
 ## Features
 - **There are two sections in the app
@@ -17,7 +17,7 @@ This App is a simple practice app designed to help medical students with their s
 ## Installation
 You can download the app from the Google Play Store or install it manually by following these steps:
 
-1. [Download the APK](https://github.com/cooncudee/CXRSlides/raw/master/app/release/Alte1.0.0.apk) from the repository's releases.
+1. [Download the APK](https://github.com/cooncudee/CXRSlides/raw/main/app/release/app-release.apk) from the repository's releases.
 1. Enable installation from unknown sources on your Android device.
 1. Install the app by opening the APK file.
 
@@ -36,6 +36,6 @@ Contact
 - LinkedIn: [Oladayo Babalola](https://linkedin.com/in/oladayo-babalola-spt/)
 - GitHub: [This Profile](https://github.com/cooncudee/)
 
-![Cover 2 ](https://github.com/cooncudee/CXRSlides/raw/master/assests/board2)
+![Cover 2 ](https://github.com/cooncudee/CXRSlides/blob/main/assets/board2.png)
 
 With ❤️ from RGBStudios 🎨
