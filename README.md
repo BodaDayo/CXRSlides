@@ -25,7 +25,7 @@ We welcome your feedback and contributions to make the CXR Slides App even bette
 Feel free to contribute to the development by submitting a [pull request](https://github.com/cooncudee/CXRSlides/pulls).
 
 License
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## Acknowledgments
 Shout out to the open-source community for the incredible resources and support, JetBrains from the free resources, Squares and circles on Figma for the UI inspo, Dr Omole for the ever useful slides, and everyone that's contributed to the development of the CXR Slides App. :+1: :+1:
